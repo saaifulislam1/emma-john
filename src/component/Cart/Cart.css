@@ -1,0 +1,12 @@
+.divider{
+    border-bottom: 1px solid chocolate;
+}
+.grand-total{
+    color: #B12704;
+}
+.cart-hisab{
+    width: 100%;
+    position: fixed;
+    background-color: lightgrey;
+    z-index: -1;
+}

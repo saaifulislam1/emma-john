@@ -1,0 +1,25 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+    padding: 10px;
+  
+    
+}
+.product-name{
+    color: black;
+    font-weight: bolder;
+   
+    font-weight: 400;
+    
+}
+.description{
+    margin-left: 30px;
+}
+.gold-btn{
+    background-color: rgb(241, 166, 26);
+    color: black;
+    width: 150px;
+    height: 25px;
+    border-radius: 5px;
+    border:1px solid black
+}

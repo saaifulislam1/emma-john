@@ -1,0 +1,33 @@
+.footer-main{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(35,47,62);
+    margin-bottom: 10px;
+}
+.bctop{
+    background-color: rgb(55,71,90);
+    height: 45px;
+    
+    text-align: center;
+}
+.h3 a{
+    margin-top: 1%;
+    text-decoration: none;
+    
+    font-weight: bold;
+    color: white;
+    
+
+}
+.one-fourth{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 20%;
+    color: white;
+    text-decoration: none;
+    float: left;
+    
+}
+.footer-h3{
+    margin-left: 40px;
+}
