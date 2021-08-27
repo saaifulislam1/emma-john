@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Amazon mini Clone
+#Live site : https://modest-johnson-6abfe1.netlify.app/
+
+This a React project. I fetched all the products shown here from a JSON file. And through React Component concepts displayed here. There is also a "Order summary Component which shows how many product have you added to the cart and how much it will cost included tax etc
+
+
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
